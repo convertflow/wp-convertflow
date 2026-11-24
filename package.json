@@ -8,7 +8,11 @@
   "author": "BizBudding",
   "dependencies": {},
   "devDependencies": {
-    "@wordpress/scripts": "^12.1.0"
+    "@wordpress/scripts": "^37.2.0"
+  },
+  "overrides": {
+    "serialize-javascript": "7.1.4",
+    "markdownlint-cli": "0.50.1"
   },
   "private": true
 }

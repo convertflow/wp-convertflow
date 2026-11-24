@@ -22,8 +22,8 @@ Connects your WordPress site to your ConvertFlow account
 
 ### Requirements
 
-- Node v12.18.2+
-- NPM v6.14.5+
+- Node v22.22.2+
+- NPM v10+
 
 If using (nvm)[https://github.com/nvm-sh/nvm], run the following command to update to the latest Node version:
 
